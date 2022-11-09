@@ -1,0 +1,92 @@
+h1 {
+    color: rgb(153, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+img {
+    border-radius: 25px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+}
+
+img:hover {
+    transform: scaleX(-1);
+  }
+
+a:visited {
+    color:black;
+}
+
+a:hover { 
+    color:greenyellow;
+}
+
+button {
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.ketchup,
+.liver,
+.salt,
+.aminos,
+.brown-sugar,
+.eggs,
+.butter,
+.pepper,
+.milk,
+.strawberry {
+    font-weight:bold;
+    font-size:large;
+}
+
+.ketchup {
+    color:#9a382d;
+
+}
+
+.liver {
+    color:#6C2E1F;    
+}
+
+.salt {
+    color:lightgray;
+}
+
+.brown-sugar {
+    color:#af6e4d;
+}
+
+.aminos {
+    color:#0f0704;
+}
+
+.eggs {
+    color:#f3b902;
+}
+
+.butter {
+    color:#F6EB61;
+}
+
+.pepper {
+    color:#5D5951;
+}
+
+.milk {
+    color:whitesmoke;
+}
+
+.strawberry {
+    color:lightpink;
+}
